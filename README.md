@@ -1,2 +1,2 @@
 # Amazon-Webscraper
-Webscraping Product data from Amazon
+In this project, I developed a system to monitor a T-shirt product page on Amazon. Through webscraping in Python, I collected relevant data, such as the shirt's name and price, and created an automated workflow that extracts this information and saves it to a CSV file every 24 hours. Additionally, I implemented a notification feature that alerts me via email if the price drops to a level I’m interested in for purchasing the product.
